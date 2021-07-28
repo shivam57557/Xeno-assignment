@@ -34,7 +34,7 @@ const ToDoListItem = (props) => {
                     </i>
                     <h6 className="to-do-heading fw-bold">{props.title}</h6>
                     <h6 className="to-do-desc fw-lighter text-muted"><small>{props.desc}</small>
-                        <a className="text-primary fw-normal">Read More</a>
+                        <Link to={`/edit/${props.id}`} className="text-primary fw-normal">Read More</Link>
                     </h6>
 
                     
