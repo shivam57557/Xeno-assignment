@@ -1,0 +1,25 @@
+a{
+    text-decoration: none;
+}
+
+.bi-three-dots-vertical{
+    margin-left: 5px;
+}
+
+.to-do-heading{
+    display: inline-block;
+}
+
+
+.to-do-desc{
+    margin-left: 70px;
+}
+
+.dropdown-options{
+    margin-right: 25px;
+    align-items: center;
+}
+
+.to-do-created-at{
+    margin-left: 70px;
+}

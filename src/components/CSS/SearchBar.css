@@ -1,0 +1,15 @@
+.form-control {
+    display: inline-block;
+}
+
+
+.search-bar{
+    border-radius: 20px;
+    width: 30%;
+}
+
+.search-icon{
+    position: relative;
+    right: 70px;
+    z-index: 1;
+}
